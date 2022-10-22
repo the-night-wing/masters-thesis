@@ -1,0 +1,8 @@
+train: small_grey/train/
+val: small_grey/val/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['defect']

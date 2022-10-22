@@ -1,0 +1,8 @@
+train: big_raw/train/
+val: big_raw/val/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['defect']
