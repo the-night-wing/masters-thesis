@@ -1,0 +1,5 @@
+names:
+- defect
+nc: 1
+train: wandb-artifact://activation_functions_small_raw\train
+val: wandb-artifact://activation_functions_small_raw\val

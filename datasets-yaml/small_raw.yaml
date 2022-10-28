@@ -1,8 +1,0 @@
-train: small_raw/train/
-val: small_raw/val/
-
-# number of classes
-nc: 1
-
-# class names
-names: ['defect']
